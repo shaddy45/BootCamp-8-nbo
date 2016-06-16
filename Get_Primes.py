@@ -26,5 +26,6 @@ def list_first_n_primes_numbers(n):
 			'''return the list of prime number '''
 	return list_of_primes
 # Assign variable m to value of user in put, the nummber of prime numbers to be printed.
+
 m = int(input("How many prime numbers do you want to print? "))
 print (list_first_n_primes_numbers(m)) # Call function to print a list of first 6 prime numbers
