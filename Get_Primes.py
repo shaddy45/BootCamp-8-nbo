@@ -4,7 +4,7 @@ Function to print a list of the fist n prime numbers
 
 # define a function that accepts integer varibale,n 
 def list_first_n_primes_numbers(n):  
-# A list of prime numbers with 2 as the first know prime number
+# A list of prime numbers with 2 as the first known prime number
 
 	list_of_primes = [2] 
 	# Assign current_number_being_tested to 3 as the next interger after 2
